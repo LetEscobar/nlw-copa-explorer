@@ -18,9 +18,9 @@ ul {
 body {
     background-color: var(--card-bg-color);
     background-image: var(--bg);
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 body * {
